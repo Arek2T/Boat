@@ -18,7 +18,7 @@ Unity 6000.5.11f1
 - Unity UI Toolkit
 - New Input System
 - Custom boat movement without Rigidbody or collisions
-- Wind and apparent wind simulation
+- Wind simulation
 - Water drag
 - Procedural sail deformation
 - IL2CPP
